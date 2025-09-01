@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    margin: 10px 0;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #scanResult {
+    font-weight: bold;
+    color: green;
+  }
